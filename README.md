@@ -1,7 +1,7 @@
 # Bootcamp Mentee-Python-Tema 1
 
-# import random
-# generated = random.randint (0,100)
+import random
+generated = random.randint (0,100)
 print(generated)
 guess = ""
 
